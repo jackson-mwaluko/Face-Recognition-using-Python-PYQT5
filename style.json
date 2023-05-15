@@ -1,0 +1,17 @@
+{
+	"QCard": [{
+		"cards": [
+			"widget_4"
+	
+			
+		],
+		"shadow":[
+			{
+				"color": "#000",
+				"blurRadius": 10,
+				"xOffset": 0,
+				"yOffset": 0
+			}
+		]
+	}]
+}
